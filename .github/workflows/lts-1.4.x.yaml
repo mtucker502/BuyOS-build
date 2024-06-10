@@ -18,7 +18,7 @@ env:
   VYOS_URL: https://github.com/vyos/vyos-build
   VYOS_BRANCH: sagitta
   VYOS_ARCH: amd64
-  VYOS_BUILD_BY: autobuild-vyos@whydontyou.work
+  VYOS_BUILD_BY: admin@netzolt.com
   VYOS_BUILD_TYPE: release
   # renovate: datasource=github-releases depName=getsops/sops
   SOPS_VERSION: v3.8.1
