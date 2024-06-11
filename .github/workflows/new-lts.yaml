@@ -7,7 +7,7 @@ on:
 
 jobs:
   check_tags:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Generate Token
         uses: actions/create-github-app-token@v1
